@@ -1,0 +1,8 @@
+*{margin: 0;
+    padding: 0;
+}
+.red {background: rgba(rgb(197, 194, 34), rgb(15, 215, 230), rgba(94, 255, 0, 0.479), alpha);
+    height: 344px;
+color: white;}
+.green {background:hsl(5, 20%, 10% );
+color: aqua;}
